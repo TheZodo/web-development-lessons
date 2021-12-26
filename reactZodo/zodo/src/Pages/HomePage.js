@@ -5,7 +5,7 @@ const HomePage = () => {
         div >
         <
         Text type = 'heading' >
-        I 'm a simp < /
+        I 'm a simp <br/> ANd I love it < /
         Text > <
         /div>
     )
