@@ -10,5 +10,5 @@ const HomePage = () => {
             /div>
         )
     }
-    // hey there, just updating</Text>
+    // hey there, just updating
 export default HomePage
