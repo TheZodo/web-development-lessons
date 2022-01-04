@@ -11,4 +11,4 @@ const HomePage = () => {
         )
     }
     // hey there, just updating
-export default HomePage
+export default HomePage  
