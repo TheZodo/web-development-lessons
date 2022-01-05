@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(185, 41%, 84%);
+    display: flex;
+}
+
+.main-container {
+    background-color: whitesmoke;
+    display: flex;
+    margin: 9px;
+    border: 4px solid black;
+}
+
+.inner-container-l {
+    min-height: 100px;
+    min-width: 100px;
+    background-color: black;
+}
+
+.inner-container-r {
+    min-height: 100px;
+    min-width: 100px;
+    background-color: blue;
+}
