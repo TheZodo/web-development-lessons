@@ -27,5 +27,7 @@ body {
 }
 
 .darkbluebutton {
-    Dark grayish cyan: hsl(184, 14%, 56%) padding: 10px;
+    color: hsl(184, 14%, 56%);
+    background-color: hsl(183, 100%, 15%);
+    padding: 10px;
 }
